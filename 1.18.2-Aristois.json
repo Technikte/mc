@@ -1,0 +1,70 @@
+{
+  "inheritsFrom": "1.18.2",
+  "id": "1.18.2-Aristois",
+  "time": "2022-06-07T01:26:03+02:00",
+  "releaseTime": "2022-06-07T01:26:03+02:00",
+  "type": "release",
+  "mainClass": "me.deftware.weaver.Main",
+  "libraries": [
+    {
+      "name": "me.deftware:aristois:loader",
+      "url": "https://maven.aristois.net/"
+    },
+    {
+      "name": "me.deftware:EMC-F-v2:latest-1.18.2",
+      "url": "https://gitlab.com/EMC-Framework/maven/raw/master/"
+    },
+    {
+      "name": "me.deftware:weaver:1.0.0",
+      "url": "https://gitlab.com/EMC-Framework/maven/raw/master/"
+    },
+    {
+      "name": "net.fabricmc:loader-v2:latest",
+      "url": "https://gitlab.com/EMC-Framework/maven/raw/master/"
+    },
+    {
+      "name": "net.fabricmc:sponge-mixin:0.11.4+mixin.0.8.5",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:tiny-remapper:0.8.2",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:access-widener:2.1.0",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm:9.3",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-analysis:9.3",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-commons:9.3",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-tree:9.3",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-util:9.3",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:intermediary:1.18.2",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "com.thealtening.auth:auth:3.0.2-j9",
+      "url": "https://repo.maven.apache.org/maven2/"
+    }
+  ]
+}
